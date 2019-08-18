@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="071b64dd-c0e8-444d-b6c1-11f39bf790e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/GameStore/src/main/resources/game-store-specs.md" beforeDir="false" afterPath="$PROJECT_DIR$/GameStore/src/main/resources/game-store-specs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameStore/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/GameStore/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,36 +28,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/READMEusm3LastSummative.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SQL.stateRatesBackup.SQL">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BobTriesteU1CapstoneSQL.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GameStore/src/main/java/BobTriesteU1Capstone/GameStore/controller/ConsoleInventoryController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="782">
-              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
             </state>
           </provider>
         </entry>
@@ -78,7 +54,7 @@
         <entry file="file://$PROJECT_DIR$/GameStore/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="57" lean-forward="true" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+              <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -97,6 +73,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/GameStore/src/main/resources/game-store-specs.md" />
+        <option value="$PROJECT_DIR$/GameStore/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -110,9 +87,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1273" />
-    <option name="width" value="1294" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="917" />
+    <option name="width" value="1438" />
     <option name="height" value="1407" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -121,156 +98,32 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="462c0819:PsiDirectoryNode" />
+              <item name="SampleREST_API_Game_Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SampleREST_API_Game_Store" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="462c0819:PsiDirectoryNode" />
+              <item name="SampleREST_API_Game_Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SampleREST_API_Game_Store" type="462c0819:PsiDirectoryNode" />
               <item name="GameStore" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="462c0819:PsiDirectoryNode" />
-              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="462c0819:PsiDirectoryNode" />
-              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="462c0819:PsiDirectoryNode" />
-              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="462c0819:PsiDirectoryNode" />
-              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="BobTriesteU1Capstone" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="462c0819:PsiDirectoryNode" />
-              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="BobTriesteU1Capstone" type="462c0819:PsiDirectoryNode" />
-              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="462c0819:PsiDirectoryNode" />
-              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="BobTriesteU1Capstone" type="462c0819:PsiDirectoryNode" />
-              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="462c0819:PsiDirectoryNode" />
-              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="BobTriesteU1Capstone" type="462c0819:PsiDirectoryNode" />
-              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="462c0819:PsiDirectoryNode" />
-              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="BobTriesteU1Capstone" type="462c0819:PsiDirectoryNode" />
-              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
-              <item name="exception" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="462c0819:PsiDirectoryNode" />
-              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="BobTriesteU1Capstone" type="462c0819:PsiDirectoryNode" />
-              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="462c0819:PsiDirectoryNode" />
-              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="BobTriesteU1Capstone" type="462c0819:PsiDirectoryNode" />
-              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="462c0819:PsiDirectoryNode" />
-              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="BobTriesteU1Capstone" type="462c0819:PsiDirectoryNode" />
-              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="462c0819:PsiDirectoryNode" />
-              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="BobTriesteU1Capstone" type="462c0819:PsiDirectoryNode" />
-              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
-              <item name="viewmodel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019_08_15_U2M3LastSummBobTrieste" type="462c0819:PsiDirectoryNode" />
-              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../CTSH/RU-RCOG-E-CJS1_HOMEWORK_Bob_Trieste/2019_08_15_U2M3LastSummBobTrieste/GameStore" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
@@ -298,11 +151,12 @@
       <option name="presentableId" value="Default" />
       <updated>1566067337708</updated>
       <workItem from="1566067338940" duration="288000" />
+      <workItem from="1566153810009" duration="19000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="288000" />
+    <option name="totallyTimeSpent" value="307000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1294" height="1407" extended-state="0" />
@@ -353,31 +207,13 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Game_Store_Inventory.yaml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/READMEusm3LastSummative.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SQL.stateRatesBackup.SQL">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BobTriesteU1CapstoneSQL.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/READMEusm3LastSummative.md" />
+    <entry file="file://$PROJECT_DIR$/SQL.stateRatesBackup.SQL" />
+    <entry file="file://$PROJECT_DIR$/BobTriesteU1CapstoneSQL.sql" />
     <entry file="file://$PROJECT_DIR$/GameStore/src/main/java/BobTriesteU1Capstone/GameStore/controller/ConsoleInventoryController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
-          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
         </state>
       </provider>
     </entry>
@@ -391,10 +227,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Game_Store_Inventory.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/GameStore/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="57" lean-forward="true" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
         </state>
       </provider>
     </entry>
