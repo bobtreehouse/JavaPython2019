@@ -1,8 +1,6 @@
-// Bob Trieste 917-806-6333 *REST_API_README.md* //
-
-###Contact
-##Bob Trieste
-Java, Python, Spring, Eurkea, Microservices, AWS. SQL, finance, technology.
+### Contact
+## Bob Trieste
+Java, Python, Spring, Eureka, Microservices, AWS. SQL, finance, technology.
 Problem-solver.
 NYC area
 
@@ -217,8 +215,8 @@ Processing fees were loaded into database:
 * Games: 1.49
 
 ---
-###Contact
-##Bob Trieste
+### Contact
+## Bob Trieste
 Java, Python, Spring, Eureka, Microservices, AWS. SQL, finance, technology.
 Problem-solver.
 NYC area
