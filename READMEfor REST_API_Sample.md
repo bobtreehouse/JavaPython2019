@@ -8,7 +8,7 @@ Bob Trieste
 917-806-6333
 bobtrieste@gmail.com
 www.linkedin.com/in/bobtrieste
-https://github.com/bo
+http://bit.ly/BobTbio
 
 ### Mock Game-Store RESTful API Project
 
@@ -217,7 +217,7 @@ Processing fees were loaded into database:
 ---
 ### Contact
 ## Bob Trieste
-Java, Python, Spring, Eureka, Microservices, AWS. SQL, finance, technology.
+Java, Python, Spring, Eureka, Microservices, AWS. SQL, finance, trading technology.
 Problem-solver.
 NYC area
 

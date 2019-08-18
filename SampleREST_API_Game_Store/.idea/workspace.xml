@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="071b64dd-c0e8-444d-b6c1-11f39bf790e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/GameStore/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/GameStore/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../READMEfor REST_API_Sample.md" beforeDir="false" afterPath="$PROJECT_DIR$/../READMEfor REST_API_Sample.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TimeZones_All (1).ipynb" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,19 +39,31 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GameStore/src/main/resources/game-store-specs.md">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../BobTrieste_Java_Python2019_Overview.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="3417">
-                <caret line="201" selection-start-line="201" selection-end-line="201" />
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="-3349">
+                <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GameStore/src/main/resources/game-store-specs.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="1076">
+                <caret line="175" column="17" lean-forward="true" selection-start-line="175" selection-start-column="17" selection-end-line="175" selection-end-column="17" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GameStore/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -61,7 +74,11 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Game_Store_Inventory.yaml">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -87,8 +104,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="917" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="3300" />
     <option name="width" value="1438" />
     <option name="height" value="1407" />
   </component>
@@ -111,6 +128,90 @@
               <item name="SampleREST_API_Game_Store" type="b2602c69:ProjectViewProjectNode" />
               <item name="SampleREST_API_Game_Store" type="462c0819:PsiDirectoryNode" />
               <item name="GameStore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SampleREST_API_Game_Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SampleREST_API_Game_Store" type="462c0819:PsiDirectoryNode" />
+              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SampleREST_API_Game_Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SampleREST_API_Game_Store" type="462c0819:PsiDirectoryNode" />
+              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SampleREST_API_Game_Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SampleREST_API_Game_Store" type="462c0819:PsiDirectoryNode" />
+              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SampleREST_API_Game_Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SampleREST_API_Game_Store" type="462c0819:PsiDirectoryNode" />
+              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="BobTriesteU1Capstone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SampleREST_API_Game_Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SampleREST_API_Game_Store" type="462c0819:PsiDirectoryNode" />
+              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="BobTriesteU1Capstone" type="462c0819:PsiDirectoryNode" />
+              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SampleREST_API_Game_Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SampleREST_API_Game_Store" type="462c0819:PsiDirectoryNode" />
+              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="BobTriesteU1Capstone" type="462c0819:PsiDirectoryNode" />
+              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SampleREST_API_Game_Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SampleREST_API_Game_Store" type="462c0819:PsiDirectoryNode" />
+              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="BobTriesteU1Capstone" type="462c0819:PsiDirectoryNode" />
+              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SampleREST_API_Game_Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SampleREST_API_Game_Store" type="462c0819:PsiDirectoryNode" />
+              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="BobTriesteU1Capstone" type="462c0819:PsiDirectoryNode" />
+              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SampleREST_API_Game_Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SampleREST_API_Game_Store" type="462c0819:PsiDirectoryNode" />
+              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="BobTriesteU1Capstone" type="462c0819:PsiDirectoryNode" />
+              <item name="GameStore" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -151,18 +252,18 @@
       <option name="presentableId" value="Default" />
       <updated>1566067337708</updated>
       <workItem from="1566067338940" duration="288000" />
-      <workItem from="1566153810009" duration="19000" />
+      <workItem from="1566153810009" duration="729000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="307000" />
+    <option name="totallyTimeSpent" value="1017000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1273" y="0" width="1294" height="1407" extended-state="0" />
+    <frame x="3300" y="0" width="1438" height="1407" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20187794" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1814346" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="DB Browser" order="3" />
@@ -210,6 +311,30 @@
     <entry file="file://$PROJECT_DIR$/READMEusm3LastSummative.md" />
     <entry file="file://$PROJECT_DIR$/SQL.stateRatesBackup.SQL" />
     <entry file="file://$PROJECT_DIR$/BobTriesteU1CapstoneSQL.sql" />
+    <entry file="file://$PROJECT_DIR$/GameStore/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameStore/src/main/resources/game-store-specs.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1076">
+            <caret line="175" column="17" lean-forward="true" selection-start-line="175" selection-start-column="17" selection-end-line="175" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game_Store_Inventory.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/GameStore/src/main/java/BobTriesteU1Capstone/GameStore/controller/ConsoleInventoryController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
@@ -217,23 +342,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GameStore/src/main/resources/game-store-specs.md">
+    <entry file="file://$PROJECT_DIR$/../BobTrieste_Java_Python2019_Overview.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="3417">
-            <caret line="201" selection-start-line="201" selection-end-line="201" />
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="-3349">
+            <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Game_Store_Inventory.yaml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameStore/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
         </state>
       </provider>
     </entry>
