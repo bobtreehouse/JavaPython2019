@@ -6,6 +6,9 @@
 - <a href="#tos">Scripting in TD Ameritrade's thinkorswim</a><br>
 - <a href="#python">Python</a><br>
 - <a href="#java">Java</a><br>
+- <a href="#FizzBuzzJava">FizzBuzz in Java</a><br>
+- <a href="#FizzBuzzPython">FizzBuzz in Python</a><br>
+- <a href="#FizzBuzzC#">FizzBuzz in C#</a><br>
 
 
 ### Sample of Java & Python projects as well as workflow.
@@ -430,11 +433,6 @@ display(Image(filename = PATH + "TOSdataExcelCustom.png"))
 ![png](output_29_0.png)
 
 
-
-```python
-
-```
-
 <p><a name="python"></a></p>
 
 # Some samples of Python logic below
@@ -582,7 +580,7 @@ plt.show()
 ```
 
 
-![png](output_45_0.png)
+![png](output_44_0.png)
 
 
 
@@ -1305,11 +1303,6 @@ def wordCounter(in_name):
  ('conditions', 40),]
 ```
 
-
-```python
-
-```
-
 <p><a name="java"></a></p>
 
 # Java
@@ -1514,7 +1507,7 @@ public class MonthConverterSwitch {
 ```
 
 ## Coding larger projects in IntelliJ IDE with multiple Classes and Interfaces, Service Layer, 
-## Controllers, JDBC, testing, etc. (below is screenshot. actual program in source folder).
+### Controllers, JDBC, testing, etc. (below is screenshot. actual program in source folder).
 
 
 ```python
@@ -1524,7 +1517,7 @@ display(Image(filename = PATH + "JavaMavenINtelliJ.png"))
 ```
 
 
-![png](output_74_0.png)
+![png](output_72_0.png)
 
 
 
@@ -1535,7 +1528,7 @@ display(Image(filename = PATH + "IntelliJSample2.png"))
 ```
 
 
-![png](output_75_0.png)
+![png](output_73_0.png)
 
 
 
@@ -1546,8 +1539,161 @@ display(Image(filename = PATH + "POMxmlFile.png"))
 ```
 
 
-![png](output_76_0.png)
+![png](output_74_0.png)
 
+
+<p><a name="FizzBuzzJava"></a></p>
+
+### FizzBuzz in Java.
+ - ```"FizzBuzz"``` the famous coding interview question to check the logical skills of developers:
+ - We will print positive integers from 1 to 100.
+ - When a number is a multiple of 3 we will print "Fizz".
+ - When a number is a multiple of 5 we will print "Buzz".
+ - When a number is a multiple of 3 AND 5 we will print "FizzBuzz".
+ - We will make use of "if/else" statements and the "modulo" operation (%) which finds the remainder of the <br />
+    Euclidian division of two positive integers.
+
+
+```python
+public class FizzBuzz {
+
+    public static void main(String[] args) {
+
+
+        for (int i = 1; i <= 100; i++)
+            if (i % 3 == 0 && i % 5 == 0) {
+                System.out.println("FizzBuzz");
+            } else if (i % 3 == 0) {
+                System.out.println("Fizz");
+            } else if (i % 5 == 0) {
+                System.out.println("Buzz");
+            } else {
+                System.out.println(i);
+            }
+    }
+}
+```
+
+<p><a name="FizzBuzzPython"></a></p>
+
+### FizzBuzz in Python.
+ - ```"FizzBuzz"``` the famous coding interview question to check the logical skills of developers:
+ - We will print positive integers from 1 to 100.
+ - When a number is a multiple of 3 we will print "Fizz".
+ - When a number is a multiple of 5 we will print "Buzz".
+ - When a number is a multiple of 3 AND 5 we will print "FizzBuzz".
+ - We will make use of "if/else" statements and the "modulo" operation (%) which finds the remainder of the <br />
+    Euclidian division of two positive integers.
+
+
+```python
+for num in range (1,101):
+    if num % 3 == 0 and num % 5 == 0:
+        print('FizzBuzz')
+    elif num % 3 == 0:
+        print('Fizz')
+    elif num % 5 == 0:
+        print('Buzz')
+    else:
+        print(num)
+```
+
+<p><a name="FizzBuzzC#"></a></p>
+
+### FizzBuzz in C#.
+ - ```"FizzBuzz"``` the famous coding interview question to check the logical skills of developers:
+ - We will print positive integers from 1 to 100.
+ - When a number is a multiple of 3 we will print "Fizz".
+ - When a number is a multiple of 5 we will print "Buzz".
+ - When a number is a multiple of 3 AND 5 we will print "FizzBuzz".
+ - We will make use of "if/else" statements and the "modulo" operation (%) which finds the remainder of the <br />
+    Euclidian division of two positive integers.
+
+
+```python
+using System;
+
+namespace FizzBuzzCsharp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            for (int i = 1; i <= 100; i++)
+            {
+                if (i % 3 == 0 && i % 5 == 0)
+                {
+                    Console.WriteLine("FizzBuzz");
+                }
+                else if (i % 3 == 0)
+                {
+                    Console.WriteLine("Fizz");
+                }
+                else if (i % 5 == 0)
+                {
+                    Console.WriteLine("Buzz");
+                }
+                else
+                {
+                    Console.WriteLine(i);
+                }
+            }
+
+        }
+
+    }
+}
+```
+
+## **In each case above the output will be the same:** 
+
+1                 2                 Fizz
+4                 Buzz
+Fizz
+7                 8                 Fizz
+Buzz
+11                 Fizz
+13                 14                 FizzBuzz
+16                 17                 Fizz
+19                 Buzz
+Fizz
+22                 23                 Fizz
+Buzz
+26                 Fizz
+28                 29                 FizzBuzz
+31                 32                 Fizz
+34                 Buzz
+Fizz
+37                 38                 Fizz
+Buzz
+41                 Fizz
+43                 44                 FizzBuzz
+46                 47                 Fizz
+49                 Buzz
+Fizz
+52                 53                 Fizz
+Buzz
+56                 Fizz
+58                 59                 FizzBuzz
+61                 62                 Fizz
+64                 Buzz
+Fizz
+67                 68                 Fizz
+Buzz
+71                 Fizz
+73                 74                 FizzBuzz
+76                 77                 Fizz
+79                 Buzz
+Fizz
+82                 83                 Fizz
+Buzz
+86                 Fizz
+88                 89                 FizzBuzz
+91                 92                 Fizz
+94                 Buzz
+Fizz
+97                 98                 Fizz
+Buzz
 
 ### Several full programs are available in the root folder of this repository to inspect further.
 
@@ -1561,6 +1707,4 @@ https://github.com/bobtreehouse <br>
 http://bit.ly/BobTbio <br>
 
 
-```python
 
-```
