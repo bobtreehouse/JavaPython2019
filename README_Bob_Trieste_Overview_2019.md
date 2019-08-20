@@ -1236,7 +1236,7 @@ booleans[0:5]
 
 
 
-**Only "The Godfather: Pat II" is 200 minute or more out of the anove sample !**
+**Only "The Godfather: Pat II" is 200 minutes or more out of the above sample !**
 
 **Sample code below to clean and parse text and perform word counts**
  - One example of a use case for this would be to compare and contrast FOMC statements for keyowrd differences.
