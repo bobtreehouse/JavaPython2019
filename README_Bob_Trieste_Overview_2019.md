@@ -1,5 +1,5 @@
 
-<p><a name="Top"></a></p>
+<a id="Top"></a>
 
 # Bob Trieste
 ## Java, Python - 2019.
@@ -1718,8 +1718,7 @@ www.linkedin.com/in/bobtrieste <br>
 https://github.com/bobtreehouse <br>
 http://bit.ly/BobTbio <br>
 
-<br>  
-<p><a name="Top">Back to Top</a></p>
+[Back to Top](#Top)
 
 
 
