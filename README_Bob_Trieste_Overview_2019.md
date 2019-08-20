@@ -1,7 +1,6 @@
 
 <p><a name="Top"></a></p>
 
-
 # Bob Trieste
 ## Java, Python - 2019.
 
@@ -1719,8 +1718,8 @@ www.linkedin.com/in/bobtrieste <br>
 https://github.com/bobtreehouse <br>
 http://bit.ly/BobTbio <br>
 
-<br >   
-- <a href="https://github.com/bobtreehouse/JavaPython2019/blob/master/README_Bob_Trieste_Overview_2019.md#Top#">Back to Top</a><br>
+<br>  
+<p><a name="Top">Back to Top</a></p>
 
 
 
