@@ -1,4 +1,7 @@
 
+<p><a name="Top"></a></p>
+
+
 # Bob Trieste
 ## Java, Python - 2019.
 
@@ -433,6 +436,11 @@ display(Image(filename = PATH + "TOSdataExcelCustom.png"))
 ![png](output_29_0.png)
 
 
+
+```python
+
+```
+
 <p><a name="python"></a></p>
 
 # Some samples of Python logic below
@@ -542,7 +550,7 @@ print(numsum)
     233168
     
 
-**Let's plot the change in outstanding revolving HELOC loans for the past two years from Fewd data.**
+**Let's plot the change in outstanding revolving HELOC loans for the past two years from Fed data.**
 
 
 ```python
@@ -580,7 +588,7 @@ plt.show()
 ```
 
 
-![png](output_44_0.png)
+![png](output_45_0.png)
 
 
 
@@ -1303,6 +1311,11 @@ def wordCounter(in_name):
  ('conditions', 40),]
 ```
 
+
+```python
+
+```
+
 <p><a name="java"></a></p>
 
 # Java
@@ -1517,7 +1530,7 @@ display(Image(filename = PATH + "JavaMavenINtelliJ.png"))
 ```
 
 
-![png](output_72_0.png)
+![png](output_74_0.png)
 
 
 
@@ -1528,7 +1541,7 @@ display(Image(filename = PATH + "IntelliJSample2.png"))
 ```
 
 
-![png](output_73_0.png)
+![png](output_75_0.png)
 
 
 
@@ -1539,7 +1552,7 @@ display(Image(filename = PATH + "POMxmlFile.png"))
 ```
 
 
-![png](output_74_0.png)
+![png](output_76_0.png)
 
 
 <p><a name="FizzBuzzJava"></a></p>
@@ -1705,6 +1718,9 @@ bobtrieste@gmail.com <br>
 www.linkedin.com/in/bobtrieste <br>
 https://github.com/bobtreehouse <br>
 http://bit.ly/BobTbio <br>
+
+<br >   
+- <a href="https://github.com/bobtreehouse/JavaPython2019/blob/master/README_Bob_Trieste_Overview_2019.md#Top#">Back to Top</a><br>
 
 
 
