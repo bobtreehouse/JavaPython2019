@@ -2,7 +2,7 @@
 <a id="Top"></a>
 
 # Bob Trieste
-## Java, Python - 2019.
+## Java, Python, C# - 2019.
 
 - <a href="#AWSsetup">AWS setup environment</a><br>
 - <a href="#tos">Scripting in TD Ameritrade's thinkorswim</a><br>
@@ -11,6 +11,7 @@
 - <a href="#FizzBuzzJava">FizzBuzz in Java</a><br>
 - <a href="#FizzBuzzPython">FizzBuzz in Python</a><br>
 - <a href="#FizzBuzzC#">FizzBuzz in C#</a><br>
+- <a href="https://github.com/bobtreehouse/JavaPython2019/blob/master/RobertTriesteCV.pdf">Bob's resume</a><br>
 
 
 ### Sample of Java & Python projects as well as workflow.
@@ -1718,7 +1719,15 @@ www.linkedin.com/in/bobtrieste <br>
 https://github.com/bobtreehouse <br>
 http://bit.ly/BobTbio <br>
 
+<a href="https://github.com/bobtreehouse/JavaPython2019/blob/master/RobertTriesteCV.pdf">Bob's resume</a><br>
+
 [Back to Top](#Top)
+
+
+
+
+
+
 
 
 
